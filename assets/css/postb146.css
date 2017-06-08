@@ -96,7 +96,7 @@ html, body, .summer-post-container, .summer-post-header {
     .post-template .summer-post-title a {
       color: black; }
       .post-template .summer-post-title a:hover {
-        color: #e51843; }
+        color: #00c455; }
     .post-template .summer-post-title h1 {
       color: black;
       font-weight: 800;
@@ -194,7 +194,7 @@ html, body, .summer-post-container, .summer-post-header {
         .post-template .summer-post-content > div:not(.summer-post-title) {
           margin: -10% auto 0; } }
       .post-template .summer-post-content > div:not(.summer-post-title) a, .post-template .summer-post-content > div:not(.summer-post-title) code {
-        color: #e51843; }
+        color: #00c455; }
       .post-template .summer-post-content > div:not(.summer-post-title) ul, .post-template .summer-post-content > div:not(.summer-post-title) ol {
         padding-left: 1.25rem;
         font-size: 1.125rem; }
