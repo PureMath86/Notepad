@@ -32,4 +32,5 @@ My name's Bryan. I'm a mathematician turned data scientist. Be prepared to exper
 * how to money --with cryptocurrencies, 
 * how to human, 
 * etc.
+
 I make no apologies for my tongue-in-cheek style. Deal with it! I iS dIamonD-iN-tHe-rOUgH.
