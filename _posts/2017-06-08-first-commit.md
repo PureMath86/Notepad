@@ -49,6 +49,6 @@ My personal interests are:
 * Meta-Mathematics, Logic, and Computatbility Theory,
 * the Riemann Hypothesis (interpreted through the lense of
 * Quantum Chromo-Dynamics (QCD),
-* Quantum Computation and [Ancilla Verification][https://arxiv.org/abs/1303.4026],
+* Quantum Computation and [Ancilla Verification](https://arxiv.org/abs/1303.4026),
 * Knot Theory (Rational Knots) and Applications in Biology,
 * Meta-Physics.
