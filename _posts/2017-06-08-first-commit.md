@@ -24,7 +24,6 @@ published: true
 >&quot;Do. Or do not. There is no try.&quot;
 ><small><cite title="Yoda">Jedi Master Yoda</cite></small>
 
-# 
 # Hi There!!!
 
 Welcome to my blog! ...and the first post. Let me just start off with --I hate HTML and everything about web-design. Ok. I feel better.
