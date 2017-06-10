@@ -47,7 +47,12 @@ My personal interests are:
 * Machine Learning, Deep Learning, and General AI,
 * Group Theory ang the Group Word Problem,
 * Meta-Mathematics, Logic, and Computatbility Theory,
-* the Riemann Hypothesis (interpreted through the lense of harmonic functions),
+* the Riemann Hypothesis --interpreted through the lense of "elementary" reformulations. E.g., the RH is true if and only if
+$$
+\sigma(n) \leq H_n + \exp(H_n)\log(H_n)
+$$
+holds for every $n \geq 1$, where $\sigma$ is the sum of divisors function and $H_n$ is the $n^{th}$ harmonic number.
+
 * Quantum Chromo-Dynamics (QCD),
 * Quantum Computation and [Ancilla Verification --I received an acknowledgement here](https://arxiv.org/abs/1504.04057),
 * Knot Theory (Rational Knots) and Applications in Biology,
