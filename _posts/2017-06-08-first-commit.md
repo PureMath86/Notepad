@@ -70,7 +70,7 @@ My personal interests are:
 $$
 \sigma(n) \leq H_n + \exp(H_n)\log(H_n)
 $$
-holds for every $n \geq 1$, where $\sigma$ is the sum of divisors function and $H_n$ is the $n^{th}$ harmonic number.
+holds for every $n \geq 1$, where $\sigma$ is the sum of divisors function and '$H_n$' is the $n^{th}$ harmonic number.
 
 * Quantum Chromo-Dynamics (QCD),
 * Quantum Computation and [Ancilla Verification --I received an acknowledgement here](https://arxiv.org/abs/1504.04057),
