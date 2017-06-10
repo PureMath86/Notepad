@@ -47,8 +47,8 @@ My personal interests are:
 * Machine Learning, Deep Learning, and General AI,
 * Group Theory ang the Group Word Problem,
 * Meta-Mathematics, Logic, and Computatbility Theory,
-* the Riemann Hypothesis (interpreted through the lense of
+* the Riemann Hypothesis (interpreted through the lense of harmonic functions),
 * Quantum Chromo-Dynamics (QCD),
-* Quantum Computation and [Ancilla Verification](https://arxiv.org/abs/1303.4026),
+* Quantum Computation and [Ancilla Verification --I received an acknowledgement here](https://arxiv.org/abs/1504.04057),
 * Knot Theory (Rational Knots) and Applications in Biology,
 * Meta-Physics.
