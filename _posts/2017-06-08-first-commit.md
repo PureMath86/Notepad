@@ -31,8 +31,9 @@ MathJax.Hub.Queue(function() {
     }
 });
 </script>
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?...">
+</script>
 
 >&quot;Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible.&quot;
 ><small><cite title="Assisi">St. Francis of Assisi</cite></small>
