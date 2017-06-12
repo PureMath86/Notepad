@@ -53,3 +53,5 @@ My personal interests are:
 * Quantum Computation and [Ancilla Verification --I received an acknowledgement here](https://arxiv.org/abs/1504.04057),
 * Knot Theory (Rational Knots) and Applications in Biology,
 * Meta-Physics.
+
+That's it for the introduction. Stay tuned for more!
