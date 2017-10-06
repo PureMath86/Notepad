@@ -5,7 +5,7 @@ var recordDistance;
 var bestEver;
 
 function setup() {
-  createCanvas(800, 500);
+  var canvas = createCanvas(800, 500);
 
   // Move the canvas so it's inside our <div id="sketch-holder">.
   canvas.parent('sketch-holder');
