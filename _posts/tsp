@@ -17,7 +17,7 @@ tags: 'Math, Genetic Algorithms, Machine Learning, LSTM, Deep Learning'
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>10-5-2017 Travelling Salesman Problem</title>
+    <title>10-5-2017-Travelling-Salesman-Problem</title>
     <script src="libraries/p5.js" type="text/javascript"></script>
 
     <!--<script src="libraries/p5.dom.js" type="text/javascript"></script>
@@ -27,7 +27,7 @@ tags: 'Math, Genetic Algorithms, Machine Learning, LSTM, Deep Learning'
   </head>
   <body>
   <div> 
-    <script src="sketch.js" type="text/javascript"></script>
+    <script src="js/sketch.js" type="text/javascript"></script>
 </div>
   </body>
 </html>
