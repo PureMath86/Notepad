@@ -7,6 +7,9 @@ var bestEver;
 function setup() {
   createCanvas(800, 500);
 
+  // Move the canvas so it's inside our <div id="sketch-holder">.
+  canvas.parent('sketch-holder');
+  
   // create the city vertices
   for (var i=0; i<totalCities; i++) {
     var v = createVector(random(width), random(height));
