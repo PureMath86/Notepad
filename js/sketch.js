@@ -1,3 +1,5 @@
+var cnv;
+
 var cities = []
 var totalCities = 12;
 
@@ -15,11 +17,11 @@ function windowResized() {
 }
 
 function setup() {
-  var canvas = createCanvas(3200, 3200);
+  cnv = createCanvas(3200, 3200);
   centerCanvas();
   
   // Move the canvas so it's inside our <div id="sketch-holder">.
-  canvas.parent('sketch-holder');
+  cnv.parent('sketch-holder');
   
   // create the city vertices
   for (var i=0; i<totalCities; i++) {
