@@ -4,6 +4,16 @@ var totalCities = 12;
 var recordDistance;
 var bestEver;
 
+function centerCanvas() {
+  var x = (windowWidth - width) / 2;
+  var y = (windowHeight - height) / 2;
+  cnv.position(x, y);
+}
+
+function windowResized() {
+  centerCanvas();
+}
+
 function setup() {
   var canvas = createCanvas(3200, 3200);
   centerCanvas();
