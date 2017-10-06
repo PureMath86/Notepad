@@ -6,7 +6,8 @@ var bestEver;
 
 function setup() {
   var canvas = createCanvas(800, 500);
-
+  centerCanvas();
+  
   // Move the canvas so it's inside our <div id="sketch-holder">.
   canvas.parent('sketch-holder');
   
